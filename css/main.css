@@ -1,0 +1,26 @@
+.hidden {display: none; color: black;}
+
+
+
+.main-heading {
+    color: blue; 
+    cursor: pointer;
+    text-align: center;
+
+    font-family: 'Lobster', cursive;
+    font-size: 3em;
+}
+
+/* set up the grid */
+/* COMMAND + Forward Slash = css comment shortcut */
+
+#svg-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    grid-gap: 20px;
+}
+
+.container { display: flex; }
+.container img { width: 100%; }
+.contianer svg { width: 100%;}

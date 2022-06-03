@@ -15,6 +15,11 @@ As a team, we have decided to create a website that offers meditation/ soothing 
 
 ## Contributing
 
+1. Created starting point
+2. Updated Readme.File
+3. Created a developer branch, with project folder structure.
+4. Added some codes and images. 
+
 
 ## License
 
